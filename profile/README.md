@@ -1,4 +1,4 @@
-## Welcome to LaraPage community :wave:
+## Welcome to KeepLegal community :wave:
 
 The goal of this community is to showcase good [Laravel](https://laravel.com) development practices with a [simple blog](https://github.com/larapage/larapage) application.
 
