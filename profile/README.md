@@ -1,5 +1,5 @@
 ## Welcome to KeepLegal community :wave:
 
-The goal of this community is to showcase good [Laravel](https://laravel.com) development practices with a [simple blog](https://github.com/larapage/larapage) application.
+The goal of this community is to provide developers with all the documents they need to ensure their websites and apps are legally correct.
 
-Do not hesitate to contribute to the project! Just make an [issue](https://github.com/larapage/larapage/issues) or PR in [LaraPage](https://github.com/larapage/larapage) repository.
+If you have questions or suggestions on how to improve the information, just create a new [discussion](https://github.com/orgs/keeplegal/discussions).
